@@ -10,6 +10,10 @@ header {
 header .logo {
     width: 142px;
     height: 60px;
+<<<<<<< HEAD
     background: url("../images/logo.png") no-repeat center;
+=======
+    background: url("../images/med_logo.png") no-repeat center;
+>>>>>>> fc8eb610ffb4a77b058a3545dc63b3b9dd6c89f9
     padding-left: 20px;
 }

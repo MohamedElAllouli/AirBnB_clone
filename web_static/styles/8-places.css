@@ -77,7 +77,11 @@ article h2{
 .guest_icon{
     height: inherit;
     width: inherit;
+<<<<<<< HEAD
     background: url("../images/icon_group.png");
+=======
+    background: url("../images/med_icon_group.png");
+>>>>>>> fc8eb610ffb4a77b058a3545dc63b3b9dd6c89f9
     background-repeat: no-repeat;
     margin-left: 35px;
 }
@@ -97,7 +101,11 @@ article h2{
 .rooms_icon{
     height: inherit;
     width: inherit;
+<<<<<<< HEAD
     background: url("../images/icon_bed.png");
+=======
+    background: url("../images/med_icon_bed.png");
+>>>>>>> fc8eb610ffb4a77b058a3545dc63b3b9dd6c89f9
     background-repeat: no-repeat;
     margin-left: 35px;
 }
@@ -117,7 +125,11 @@ article h2{
 .bathrooms_icon{
     height: inherit;
     width: inherit;
+<<<<<<< HEAD
     background: url("../images/icon_bath.png");
+=======
+    background: url("../images/med_icon_bath.png");
+>>>>>>> fc8eb610ffb4a77b058a3545dc63b3b9dd6c89f9
     background-repeat: no-repeat;
     margin-left: 35px;
 }
@@ -137,3 +149,7 @@ article h2{
     margin-top: 7px;
     margin-bottom: 0px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> fc8eb610ffb4a77b058a3545dc63b3b9dd6c89f9
